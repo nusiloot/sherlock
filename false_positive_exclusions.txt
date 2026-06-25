@@ -4,15 +4,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
+Houzz
 Hubski
+Itch.io
 LessWrong
-Minecraft
 Odysee
 Patched
 Rarible
@@ -20,21 +23,23 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 svidbook
