@@ -4,7 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Chess
 Codolio
 DeviantArt
 Discord.bio
@@ -13,8 +12,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Itch.io
 LessWrong
-LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
