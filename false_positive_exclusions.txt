@@ -5,16 +5,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
+F3.cool
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+Instapaper
 LessWrong
 Odysee
 PCGamer
@@ -25,10 +27,13 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+Scribd
 Shelf
+Signal
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -42,3 +47,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
