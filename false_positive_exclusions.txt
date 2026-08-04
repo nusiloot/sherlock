@@ -2,7 +2,6 @@
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 Bandcamp
 Blogger
@@ -19,9 +18,7 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -35,6 +32,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+Strava
+Trakt
 Trovo
 TryHackMe
 Weblate
