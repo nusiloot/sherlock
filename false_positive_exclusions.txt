@@ -4,8 +4,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
-BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -15,11 +13,12 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Houzz
 Hubski
 Instapaper
+Minecraft
+ObservableHQ
 Odysee
 PCGamer
 Rarible
@@ -33,7 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
