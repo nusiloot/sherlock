@@ -14,16 +14,14 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
-Gumroad
 Hashnode
 Houzz
 Hubski
 Instapaper
 ObservableHQ
+Odysee
 PCGamer
 Pornhub
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -33,6 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -47,4 +46,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+social.tchncs.de
 svidbook
