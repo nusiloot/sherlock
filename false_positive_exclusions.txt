@@ -8,7 +8,6 @@ Bandcamp
 Championat
 Chatujme.cz
 ChaturBate
-Chess
 Codolio
 ColourLovers
 DeviantArt
@@ -29,12 +28,13 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
 Splice
 Spotify
-Strava
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -51,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
