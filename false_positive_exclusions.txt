@@ -1,11 +1,9 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -20,7 +18,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Lobsters
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
