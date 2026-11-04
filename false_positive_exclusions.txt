@@ -1,6 +1,7 @@
 APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 Bandcamp
 Championat
@@ -48,4 +49,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
