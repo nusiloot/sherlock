@@ -1,9 +1,9 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+BoardGameGeek
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,7 +23,6 @@ Linktree
 ObservableHQ
 Odysee
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -34,7 +33,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
 Velomania
 Vero
