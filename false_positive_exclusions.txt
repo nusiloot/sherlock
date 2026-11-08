@@ -20,6 +20,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 Minecraft
 ObservableHQ
@@ -35,7 +36,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TnAFlix
 Trakt
 TryHackMe
 Velomania
@@ -51,4 +51,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
