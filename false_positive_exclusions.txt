@@ -3,7 +3,7 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BoardGameGeek
+Blogger
 Championat
 Chatujme.cz
 Codolio
@@ -19,7 +19,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -33,8 +32,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-TikTok
-Trakt
 TryHackMe
 Velomania
 Vero
