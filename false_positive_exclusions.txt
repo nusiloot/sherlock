@@ -1,7 +1,9 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+BoardGameGeek
 Championat
 Chatujme.cz
 Codolio
@@ -35,6 +37,7 @@ YandexMusic
 authorSTREAM
 dailykos
 fixya
+furaffinity
 hunting
 igromania
 interpals
@@ -42,4 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-threads
+xHamster
