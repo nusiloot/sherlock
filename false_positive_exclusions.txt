@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -13,12 +12,11 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-LibraryThing
 Linktree
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Pornhub
 Rarible
 Realmeye
 Reddit
